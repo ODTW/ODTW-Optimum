@@ -27,3 +27,12 @@
 - 開放資料在哪裡，去哪找
 - 政府開放資料平台 dataset
 - 政府開放資料與 API 清單
+
+# 參考計畫
+
+- [Open Data Institute](https://theodi.org/)
+- [Open Knowledge Foundation](https://okfn.org/)
+- [MySociety](https://www.mysociety.org)
+- [Code for America](https://www.codeforamerica.org/)
+- [Sunlight Foundation](https://sunlightfoundation.com/)
+- [GovTrack.us](https://www.govtrack.us/)
