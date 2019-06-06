@@ -10,6 +10,20 @@
 
 當問題無法從源頭開始處理，只能事後用擦屁股的方式來試著解決時，這當然是一種效率低而且浪費資源的作法。但是在臺灣現有的政府開放資料推動政策下，我們真的不知道除了這種糟糕的作法之外，還能怎麼去改變政府對資料的態度和作法。我們只能試著直接去做來告訴政府為什麼他們現在的作法是錯誤的。
 
-如果您希望加入我們，一起來改變臺灣政府開放資料的困境，一起來建立一個屬於我們的政府開放資料環境與生態圈，歡迎寫信到 info@opendata.tw 告訴我們您的想法。或著加入我們在 [Facebook 上的社團](https://www.facebook.com/groups/odtwn/)，或是 [Telegram 的群組](https://t.me/joinchat/B948NT8C4AfdJgsy6aCOGA)，一起參與討論與執行。
+如果您希望加入我們，一起來改變臺灣政府開放資料的困境，一起來建立一個屬於我們的政府開放資料環境與生態圈，歡迎寫信到 info@opendata.tw 告訴我們您的想法。或著加入我們在 [Facebook 上的社團](https://www.facebook.com/groups/odtwn/)，或是 [Telegram 的群組](https://t.me/joinchat/B948NT8C4AfdJgsy6aCOGA)，一起參與討論與行動。
 
-# ToDo List
+# Projects Goals
+
+1. 臺灣政府開放資料地圖
+2. data.gov.tw 資料取用 api / toolbox
+3. 資料查詢共筆平台
+4. 主題式政府開放資料 (Core-Datasets https://data.okfn.org/roadmap/core-datasets)
+5. Open Data Cookbook 實用手冊
+6. 政府網站資訊轉開放資料 api / toolbox
+7. 政府公開資訊/開放資料申請平台 (FOIA Machine)
+
+# 臺灣政府開放資料地圖
+
+- 開放資料在哪裡，去哪找
+- 政府開放資料平台 dataset
+- 政府開放資料與 API 清單
