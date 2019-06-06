@@ -1,4 +1,4 @@
-# Project ODTW Optimum 臺灣開放資料優化計畫
+# 臺灣開放資料優化計畫 Project ODTW Optimum
 
 臺灣政府開放資料從 2011 年由台北市率先推出「台北市政府公開資料平台」，隔年 2012 由行政院院會決議列為政策開始推動，國發會的 data.gov.tw 平台也在 2012 年底正式推出。
 
@@ -12,7 +12,7 @@
 
 如果您希望加入我們，一起來改變臺灣政府開放資料的困境，一起來建立一個屬於我們的政府開放資料環境與生態圈，歡迎寫信到 info@opendata.tw 告訴我們您的想法。或著加入我們在 [Facebook 上的社團](https://www.facebook.com/groups/odtwn/)，或是 [Telegram 的群組](https://t.me/joinchat/B948NT8C4AfdJgsy6aCOGA)，一起參與討論與行動。
 
-# Projects Goals
+# 計畫目標
 
 1. 臺灣政府開放資料地圖
 2. data.gov.tw 資料取用 api / toolbox
@@ -22,7 +22,7 @@
 6. 政府網站資訊轉開放資料 api / toolbox
 7. 政府公開資訊/開放資料申請平台 (FOIA Machine)
 
-# 臺灣政府開放資料地圖
+## 臺灣政府開放資料地圖
 
 - 開放資料在哪裡，去哪找
 - 政府開放資料平台 dataset
